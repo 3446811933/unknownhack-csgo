@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="csgo.hpp">
+      <Filter>offsets</Filter>
+    </ClInclude>
+    <ClInclude Include="hacks.h" />
+    <ClInclude Include="hack_process.h" />
+    <ClInclude Include="__binary_file.h" />
+    <ClInclude Include="VMProtectSDK.h">
+      <Filter>vmp</Filter>
+    </ClInclude>
+    <ClInclude Include="VMPDef.h">
+      <Filter>vmp</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="offsets">
+      <UniqueIdentifier>{8359697d-496f-4b8a-90d6-f4fce26cdc8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vmp">
+      <UniqueIdentifier>{02beb763-1881-49bf-9ded-c6a024024d9f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="VMProtectSDK32.lib">
+      <Filter>vmp</Filter>
+    </Library>
+  </ItemGroup>
+</Project>
