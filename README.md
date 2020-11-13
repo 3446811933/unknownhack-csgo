@@ -39,12 +39,14 @@ this hack supporting vac bypass(https://github.com/danielkrupinski/VAC-Bypass)
 ## Glow / Chams Preview
 ![title](https://github.com/carterrrj/unknownhack/blob/main/chams.jpg)
 ![title](https://github.com/carterrrj/unknownhack/blob/main/glow%20%26%20chams.png)
-## Settings
+## Settings / Errors fix
 how to false vac bypass?:
 
 ![title](https://github.com/carterrrj/unknownhack/blob/main/321231213213.PNG)
 
-error vmprotectsdk32.dll:
+![title](https://github.com/carterrrj/unknownhack/blob/main/12515.PNG)
 
 copy vmprotectsdk32.dll to folder release hack, or protect cheat
+
+
 
