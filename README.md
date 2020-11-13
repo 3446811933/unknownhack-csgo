@@ -38,3 +38,6 @@ this hack supporting vac bypass(https://github.com/danielkrupinski/VAC-Bypass)
 ![title](https://github.com/carterrrj/unknownhack/blob/main/chams.jpg)
 ![title](https://github.com/carterrrj/unknownhack/blob/main/glow%20%26%20chams.png)
 ## Settings
+how to false vac bypass?:
+
+![title](https://github.com/carterrrj/unknownhack/blob/main/321231213213.PNG)
