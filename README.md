@@ -32,6 +32,8 @@ this hack supporting vac bypass(https://github.com/danielkrupinski/VAC-Bypass)
   
   [NUM8] - Sound esp
   
+  [F11] - Unload Hack
+  
 </details>
 
 ## Glow / Chams Preview
